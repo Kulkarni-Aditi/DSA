@@ -1,2 +1,1 @@
-# practice
-## demo repo
+## DSA Practice
